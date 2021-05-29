@@ -43,7 +43,7 @@
     "posix": "^4.2.0",
     "ripple-binary-codec": "^0.2.7",
     "utf-8-validate": "^5.0.2",
-    "ws": "^7.3.1"
+    "ws": "^7.4.6"
   },
   "devDependencies": {
     "@types/debug": "^4.1.5",
